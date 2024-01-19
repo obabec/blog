@@ -5,6 +5,7 @@ menu_order: 1
 post_status: publish
 post_excerpt: This is a post excerpt
 featured_image: _images/automation.jpg
+author: xstejs24@gmail.com
 taxonomy:
     category:
         - automation
