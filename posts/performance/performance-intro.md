@@ -6,7 +6,8 @@ post_status: publish
 post_excerpt: Are you interested in performance testing/tuning your project? If the answer is yes check out Skodjob performance hub!
 featured_image: _images/perf-intro.jpg
 author: obabec
-
+taxonomy:
+    category:
 ---
 
 ## What is our goal?

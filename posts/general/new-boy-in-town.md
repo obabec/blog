@@ -6,7 +6,8 @@ post_status: publish
 post_excerpt: An introduction about us, our work and what we want to do in scope of Skodjob.io
 featured_image: _images/skodjob_intro.jpg
 author: jstejskal
-
+taxonomy:
+    category:
 ---
 
 # Welcome this little boy to the town
