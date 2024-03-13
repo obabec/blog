@@ -177,7 +177,7 @@ As you can see, this playbook does everything:
 * Pulling the image
 
 Once all those steps are finished, the machine should fully prepared to run the test suite and start the database, and we can create an image from this machine snapshot. Ok, now it’s time to look at the packer descriptor.
-```hcl
+```yaml
 # ami-build.pkr.hcl
 packer {
     required_plugins {
